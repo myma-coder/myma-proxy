@@ -1,0 +1,1 @@
+{"dependencies":{"ws":"^8.23.0"},"description":"VLESS over WebSocket proxy on Layero (Russia). Health endpoints are public; the VLESS UUID is the auth.","engines":{"node":">=20"},"main":"server.js","name":"layero-proxy","scripts":{"start":"node server.js"},"version":"1.0.0"}
